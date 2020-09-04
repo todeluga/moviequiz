@@ -1,0 +1,102 @@
+var QuestionList = [
+{
+"question": {
+"qtext":"The Exorcist (1973) - Who played the possessed girl?",
+}
+},
+{
+"question": {
+"qtext":"American Graffiti (1973) - Who directed this film?",
+}
+},
+{
+"question": {
+"qtext":"Jaws (1975) - Who wrote the novel this film was based on?",
+}
+},
+{
+"question": {
+"qtext":"Rocky (1976) - Who wrote the screenplay?",
+}
+},
+{
+"question": {
+"qtext":"The Omen (1976) - Which actor played Ambassador Thorn?",
+}
+},
+{
+"question": {
+"qtext":"Saturday Night Fever (1977) - Which band created the soundtrack?",
+}
+},
+{
+"question": {
+"qtext":"Star Wars (1977) - When was it first released in the US?",
+}
+},
+{
+"question": {
+"qtext":"How many films had Steven Spielberg made by 1977?",
+}
+},
+{
+"question": {
+"qtext":"Grease (1978) -  Who starred alongside John Travolta?",
+}
+},
+{
+"question": {
+"qtext":"Superman the Movie (1978) - Who played Lois Lane?",
+}
+},
+{
+"question": {
+"qtext":"Alien (1979) - Who composed the music?",
+}
+},
+{
+"question": {
+"qtext":"Raiders of the Lost Ark (1981) - Who played Belloq?",
+}
+},
+{
+"question": {
+"qtext":"ET - The Extraterrestrial (1982) - Who wrote the screenplay?",
+}
+},
+{
+"question": {
+"qtext":"Ghostbusters (1984) - Who created the soundtrack?",
+}
+},
+{
+"question": {
+"qtext":"Jurassic Park (1993) - Where was this film shot?",
+} 
+},
+{
+"question": {
+"qtext":"Titanic (1997) - Who played Captain J. Smith?",
+}
+},
+{
+"question": {
+"qtext":"Harry Potter and the Philosophers Stone (2001) - Who wrote the original novel?",
+}
+},
+{
+"question": {
+"qtext":"Lord of the Rings - Fellowship of the Ring (2001) - Who co-produced this film?",
+}
+},
+{
+"question": {
+"qtext":"The Dark Knight (2008) - Who directed this film?",
+}
+},
+{
+"question": {
+"qtext":"Avatar (2009) - Which studio distributed this film?",
+}
+},
+]

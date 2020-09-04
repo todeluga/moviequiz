@@ -1,0 +1,102 @@
+var AnswerList = [
+{
+"answer": {
+"atext":"Linda Blair", 
+}
+},
+{
+"answer": {
+"atext":"George Lucas",
+}
+},
+{
+"answer": {
+"atext":"Peter Benchley",
+}
+},
+{
+"answer": {
+"atext":"Sylvester Stallone",
+}
+},
+{
+"answer": {
+"atext":"Gregory Peck",
+}
+},
+{
+"answer": {
+"atext":"The Bee Gees",
+}
+},
+{
+"answer": {
+"atext":"May 25th 1977",
+}
+},
+{
+"answer": {
+"atext":"3",
+}
+},
+{
+"answer": {
+"atext":"Olivia Newton John",
+}
+},
+{
+"answer": {
+"atext":"Margot Kidder",
+}
+},
+{
+"answer": {
+"atext":"Jerry Goldsmith",
+}
+},
+{
+"answer": {
+"atext":"Paul Freeman",
+}
+},
+{
+"answer": {
+"atext":"Melissa Mathison",
+}
+},
+{
+"answer": {
+"atext":"Ray Parker Jnr",
+}
+},
+{
+"answer": {
+"atext":"Hawaii",
+} 
+},
+{
+"answer": {
+"atext":"Bernard Hill",
+}
+},
+{
+"answer": {
+"atext":"JK Rowling",
+}
+},
+{
+"answer": {
+"atext":"Peter Jackson",
+}
+},
+{
+"answer": {
+"atext":"Christopher Nolan",
+}
+},
+{
+"answer": {
+"atext":"Twentieth Century Fox",
+}
+},
+]
